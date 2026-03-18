@@ -1,1 +1,3 @@
-<h3 This portfolio website showcasing my work in Data Science, Machine Learning, and AI.> </h3>
+<h3 align="center">
+  This portfolio website showcases my work in Data Science, Machine Learning, and AI.
+</h3>
